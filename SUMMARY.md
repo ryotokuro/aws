@@ -1,4 +1,12 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Readme](README.md)
+
+## AWS Educate
+
+* [AWS Cloud Computing Fundamentals](aws-educate/aws-cloud-computing-fundamentals.md)
+
+## Projects
+
+* [Untitled](projects/untitled.md)
 
