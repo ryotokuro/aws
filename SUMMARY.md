@@ -4,7 +4,8 @@
 
 ## AWS Educate
 
-* [AWS Cloud Computing Fundamentals](aws-educate/aws-cloud-computing-fundamentals.md)
+* [AWS Cloud Computing Fundamentals](aws-educate/aws-cloud-computing-fundamentals/README.md)
+  * [What is Cloud Computing?](aws-educate/aws-cloud-computing-fundamentals/what-is-cloud-computing.md)
 
 ## AWS Training
 
